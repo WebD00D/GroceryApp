@@ -1,2 +1,2 @@
-# grocery-list
-First react native project attempt
+# GroceryApp
+First react native project attempt. Hooked up with Firebase.
